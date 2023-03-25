@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RCGLS"]
+	path = RCGLS
+	url = https://github.com/cran/RCGLS
+	shallow = true
+	registered = true
